@@ -14,7 +14,7 @@ MajXP (Mahjong Xpilot) 是基于uni-app开发的一个日本麻将（Riichi Mahj
 欢迎提交 Issue 或 Pull Request 参与项目开发与优化。贡献前请先阅读并遵守 [LICENSE](./LICENSE) 协议。
 
 ## 联系与反馈
-- **练习作者**：fyisvia@gmail.com
+- **联系作者**：fyisvia@gmail.com
 - **项目原型**：xpilot.top
 - **问题反馈**：请在 Issues 页面提交。
 
